@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.youwallet.app",
+    "sha256_cert_fingerprints": ["43:EE:F0:67:52:43:0A:4D:E7:C2:7B:9D:29:BE:ED:97:4F:4A:94:58:53:10:29:3C:E7:6C:86:A5:32:1F:60:58"]
+  }
+}]
